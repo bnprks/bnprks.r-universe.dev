@@ -1,12 +1,7 @@
 [
     {
         "package": "BPCells",
-        "url": "https://github.com/bnprks/BPCells"
-    },
-    {
-        "package": "BPCells.dev",
         "url": "https://github.com/bnprks/BPCells",
-        "branch": "r-universe",
         "subdir": "r"
     }
 ]
